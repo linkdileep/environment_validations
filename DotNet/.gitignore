@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.suo
+
+# Build folders
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# User files
+*.user
+*.rsuser

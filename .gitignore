@@ -26,3 +26,18 @@ Thumbs.db
 .venv/
 __pycache__/
 *.pyc
+
+# Visual Studio
+.vs/
+*.suo
+
+# Build folders
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# User files
+*.user
+*.rsuser
