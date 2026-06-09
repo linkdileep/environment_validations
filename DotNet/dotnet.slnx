@@ -3,4 +3,5 @@
     <Project Path="dotnet_smoke_test/dotnet_smoke_test.csproj" />
   </Folder>
   <Project Path="dotnet_mstest_smoke_test/dotnet_mstest_smoke_test.csproj" />
+  <Project Path="dotnet_playwright_smoke_test/dotnet_playwright_smoke_test.csproj" />
 </Solution>
