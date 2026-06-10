@@ -41,3 +41,53 @@ obj/
 # User files
 *.user
 *.rsuser
+
+
+# =========================
+# Python
+# =========================
+Python/**/.venv/
+Python/**/__pycache__/
+Python/**/*.pyc
+
+# =========================
+# Java
+# =========================
+Java/**/target/
+Java/**/.idea/
+Java/**/*.iml
+
+# =========================
+# .NET
+# =========================
+DotNet/**/bin/
+DotNet/**/obj/
+DotNet/**/.vs/
+DotNet/**/*.user
+DotNet/**/*.suo
+
+# VS Code
+.vscode/
+
+# =========================
+# Playwright
+# =========================
+playwright-report/
+test-results/
+blob-report/
+
+# Browser binaries (keep global cache outside repo)
+ms-playwright/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java build output
+Java/**/target/
+
+# Playwright artifacts
+playwright-report/
+test-results/
+blob-report/
+ms-playwright/
